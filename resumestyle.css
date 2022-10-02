@@ -36,3 +36,24 @@
     margin: 5px auto;
     border-style: groove;
 }
+
+#proheader > h2{
+    text-align: center;
+    margin: 5px auto;
+    border-style: groove;
+}
+
+.dates{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#professional{
+    margin: 5 px;
+}
+
+h2,h3,h4,h5,h6{
+    margin:5px;
+}
+#ubs {
+    margin-left: 15px;
+}
