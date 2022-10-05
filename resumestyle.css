@@ -31,29 +31,31 @@
     border-style: groove;
 }
 
-#eduheader > h2{
+#subheader > h2{
     text-align: center;
     margin: 5px auto;
+    margin-bottom: 0;
     border-style: groove;
 }
 
-#proheader > h2{
-    text-align: center;
-    margin: 5px auto;
-    border-style: groove;
-}
 
 .dates{
     font-family: 'Courier New', Courier, monospace;
 }
 
 #professional{
-    margin: 5 px;
+    /* margin: 5 px; */
+    /* margin-left: 19 px; */
+    padding-left: 2%;
+    border-style: groove;
 }
 
 h2,h3,h4,h5,h6{
     margin:5px;
 }
-#ubs {
-    margin-left: 15px;
+
+#skills{
+    display: flex;
+    justify-content: space-evenly;
+    border-style: groove;
 }
